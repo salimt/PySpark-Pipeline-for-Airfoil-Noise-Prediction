@@ -1,6 +1,6 @@
 <p style="text-align:center">
     <a href="https://github.com/salimt">
-    <img src="https://i.imgur.com/7bgtWRh.jpeg" width="200" alt="Skills Network Logo">
+    <img src="https://i.imgur.com/pPLJxnp.png" width="400" alt="Logo">
     </a>
 </p>
 
@@ -41,10 +41,10 @@ As a data engineer at an aeronautics consulting firm renowned for its efficient 
 Diagram of an airfoil. - For informational purpose
 
 
-![Airfoil with flow](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-BD0231EN-Coursera/images/Airfoil_with_flow.png)
+![Airfoil with flow](https://i.imgur.com/XPJ7JfJ.png)
 
 
 Diagram showing the Angle of attack. - For informational purpose
 
 
-![Airfoil angle of attack](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-BD0231EN-Coursera/images/Airfoil_angle_of_attack.jpg)
+![Airfoil angle of attack](https://i.imgur.com/yOwHrda.jpeg)
